@@ -3,6 +3,10 @@
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
+##   PROBLEM STATEMENT AND DATASET
+The problem is to develop an image classification model using transfer learning to classify images into predefined categories. A pre-trained model like VGG19 is used to extract features, and its final layer is modified for binary classification.
+
+The dataset consists of labeled images organized into training and testing sets, which are preprocessed and resized before training.
 
 ## DESIGN STEPS
 ### STEP 1: 
