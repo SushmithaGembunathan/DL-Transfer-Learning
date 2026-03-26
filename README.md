@@ -9,7 +9,8 @@ The problem is to develop an image classification model using transfer learning 
 The dataset consists of labeled images organized into training and testing sets, which are preprocessed and resized before training.
 
 ##   NEURAL NETWORK DIAGRAM
-<img width="946" height="827" alt="vv" src="https://github.com/user-attachments/assets/cdd047a0-f750-4abf-83e5-fa534954785b" />
+<img width="1536" height="1024" alt="4" src="https://github.com/user-attachments/assets/8583dac8-d1ff-446e-8568-2491926430c3" />
+
 
 
 ## DESIGN STEPS
